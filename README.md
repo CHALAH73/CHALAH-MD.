@@ -13,9 +13,7 @@
 CHALAH MD  Multidevice Whatsapp Bot Mack By (chalana induwara).
 
 
-<br>
 
-![forks](https://img.shields.io/github/forks/sulakshamadara68/SULA-MD?label=Forks&style=social)            ![stars](https://img.shields.io/github/stars/sulakshamadara68/SULA-MD?style=social)
 
 <p align="center">
   <a href="https://github.com/sulakshamadara68/SULA-MD">
@@ -51,16 +49,13 @@ CHALAH MD  Multidevice Whatsapp Bot Mack By (chalana induwara).
 <a href='https://sula-pair-web.vercel.app/pair.html' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id 2-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 <hr>
 
-<b>GET MONGODB URL</b>
-    
-<a href="https://youtube.com/shorts/zxOdnQMylTE" target="_blank">
-    <img src="https://img.shields.io/badge/Watch YouTube-FF0000?style=for-the-badge" alt="YouTube Channel"></a>
+
  
 <hr>
 
 ### <br>   DEPLOY_HEROKU 
 
-`IF YOU WANT TO DEPLOY SULA-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
+`IF YOU WANT TO DEPLOY CHALAH MD  BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
 
  
 <a href="https://dashboard.heroku.com/new-app?template=https://github.com/sulakshamadara68/SULA-MD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
@@ -71,7 +66,7 @@ CHALAH MD  Multidevice Whatsapp Bot Mack By (chalana induwara).
 
 <br>
 
-` HOW TO DEPLOY SULA-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL `
+` HOW TO DEPLOY CHALAH MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL `
 
 <p align="center">
    <a href="https://youtu.be/KG3s5feShKA"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
@@ -82,11 +77,11 @@ CHALAH MD  Multidevice Whatsapp Bot Mack By (chalana induwara).
 
 <b>CONTACT OWNER</b>
 
-[![𝐒𝐔𝐋𝐀-𝐌𝐃](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94760663483)
+[![CHALAH_MD](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94776938009)
 
 <hr>
 
-<a href="https://whatsapp.com/channel/0029VakXjl80rGiFkl4nR62Z"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+<a href="https://whatsapp.com/channel/0029Vb3v0Fe1dAvw1XUIV61t"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
 
 <hr>
 
@@ -127,4 +122,4 @@ jobs:
       run: npm start
 ```
 
-## RELESE DATE 2025/03/20
+## RELESE DATE 2025/04/02
