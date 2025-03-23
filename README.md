@@ -16,20 +16,20 @@ CHALAH MD  Multidevice Whatsapp Bot Mack By (chalana induwara).
 
 
 <p align="center">
-  <a href="https://github.com/sulakshamadara68/SULA-MD">
-    <img src="https://img.shields.io/github/repo-size/sulakshamadara68/SULA-MD?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/CHALAH73/CHALAH-MD..git">
+    <img src="https://img.shields.io/github/repo-size/CHALAH73/CHALAH-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/sulakshamadara68/SULA-MD">
-    <img src="https://img.shields.io/github/license/sulakshamadara68/SULA-MD?color=purple&label=License&style=plastic">
+  <a href="https://github.com/CHALAH73/CHALAH-MD..git">
+    <img src="https://img.shields.io/github/license/CHALAH73/CHALAH-MD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/sulakshamadara68/SULA-MD">
-    <img src="https://img.shields.io/github/languages/top/sulakshamadara68/SULA-MD?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/CHALAH73/CHALAH-MD..git">
+    <img src="https://img.shields.io/github/languages/top/CHALAH73/CHALAH-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/sulakshamadara68/SULA-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Sulaksha%20Madara&color=purple&style=plastic">
+  <a href="https://github.com/CHALAH73/CHALAH-MD..git">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Chalana%20induwara&color=purple&style=plastic">
 
   </a>
   </p>
@@ -37,7 +37,7 @@ CHALAH MD  Multidevice Whatsapp Bot Mack By (chalana induwara).
  
  <b>Visitor's Count</b>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SULA-MD}/count.svg" alt="sulakshamadara68/SULA-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{sulakshamadara68/SULA-MD}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{CHALAH-MD}/count.svg" alt="CHALAH73/CHALAH-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{sulakshamadara68/SULA-MD}/count.svg" /></p>
 
 <hr>
 
