@@ -71,7 +71,7 @@ console.log('Bot connected to whatsapp ✅')
 
 let up = `CHALAH MD  connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/9kfrs6RW/SulaMd.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/CsDngW7T/9956.jpg` }, caption: up })
 
 }
 })
@@ -145,12 +145,16 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
                 return conn.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options }, { quoted: quoted, ...options })
               }
             }
-            
+
+ //===================================work-type========================================= 
+if(!isOwner && config.MODE === "private") return
+if(!isOwner && isGroup && config.MODE === "inbox") return
+if(!isOwner && !isGroup && config.MODE === "groups") return       
 //========OwnerReact========            
          
 if(senderNumber.includes("94776938009")){
 if(isReact) return
-m.react("💗")
+m.react("🗿")
 }       
 
                
@@ -193,4 +197,4 @@ res.send("hey, bot started✅");
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
 connectToWA()
-}, 4000);  
+}, 4000);
